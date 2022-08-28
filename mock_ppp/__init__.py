@@ -1,4 +1,4 @@
-__version__ = '0.1.2'
+__version__ = '0.1.3'
 
 from .utils import hello_world
 from .module1.module1 import Module1_class
